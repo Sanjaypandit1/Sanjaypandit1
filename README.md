@@ -42,7 +42,7 @@
 </td>
 <td align="center" width="45%">
 
-<img src="https://github.com/Sanjaypandit1/Sanjaypandit1/blob/929ab158a25f769049df6d77a80cc49647522b7c/photo.webp" width="100%" alt="Coding GIF"/>
+<img src="photo.webp" width="100%" alt="Coding GIF"/>
 
 </td>
 </tr>
