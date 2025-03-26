@@ -3,11 +3,15 @@
 
 ---
 
-### 👨‍💻 **About Me**
-- 🔭 I’m currently working on **Product Insight App** (a mobile app for scanning and analyzing food ingredients).  
-- 👯 I’m looking to collaborate on **React Native & React.js**.  
-- 💬 Ask me about **HTML, CSS, JavaScript, React Native, SQL, and Full-Stack Development**.  
-- ⚡ Fun fact: **I love building apps that solve real-world problems!**  
+### 👨‍💻 **About Me**  
+- 🚀 I’m an intermediate developer skilled in **frontend and backend technologies**, passionate about creating dynamic and user-friendly applications.  
+- 👯 Looking to collaborate on **React Native & React.js** projects.  
+- 💡 My expertise includes:  
+  - **Programming Languages & Technologies:** HTML, CSS, JavaScript, SQL  
+  - **Frontend:** React.js, React Native  
+  - **Backend:** Node.js  
+  - **Database:** SQL  
+- ⚡ Fun fact: **I love turning ideas into functional and impactful apps that solve real-world problems!**  
 
 ---
 
@@ -22,7 +26,6 @@
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 </p>
 
 ### **Frameworks & Libraries**  
@@ -37,9 +40,10 @@
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white" />
 </p>
 
-</td>
 <td align="center" width="45%">
 
 <img src="photo.webp" width="100%" alt="Coding GIF"/>
@@ -65,6 +69,11 @@
 - **[Product Insight App](https://github.com/Sanjaypandit1/ProductInsightApp)** - Scan and analyze food ingredients using AI-powered text recognition.  
 - **[Web Chat](https://github.com/Sanjaypandit1/Web-Chatt.git)** - A simple real-time chat application using Node.js, Socket.io, HTML, CSS, and JavaScript.  
 - **[Currency Converter](https://github.com/Sanjaypandit1/Currency-Converter.git)** - A web app for real-time currency conversion.  
+
+---
+
+### 🌐 **Portfolio**
+Check out my portfolio: **[Sanjay Pandit's Portfolio](https://sanjaypandit1.github.io/Portfolio/)**  
 
 ---
 
