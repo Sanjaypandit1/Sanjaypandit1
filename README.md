@@ -46,7 +46,7 @@
 
 <td align="center" width="45%">
 
-<img src="photo.webp" width="100%" alt="Coding GIF"/>
+<img src="WhatsApp Image 2024-10-05 at 22.29.55.jpeg" width="100%" alt="Coding GIF"/>
 
 </td>
 </tr>
