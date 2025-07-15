@@ -66,8 +66,9 @@
 ---
 
 ### 🚀 **Top Projects**
-- **[Product Insight App](https://github.com/Sanjaypandit1/ProductInsightApp)** - Scan and analyze food ingredients using AI-powered text recognition.  
-- **[Web Chat](https://github.com/Sanjaypandit1/Web-Chatt.git)** - A simple real-time chat application using Node.js, Socket.io, HTML, CSS, and JavaScript.  
+- **[Food Flash](https://github.com/Sanjaypandit1/Foodflash)** - FoodFlash: Food Delivery App with Auto Location Detection and Dual-Language Support.  
+- **[Product Insight App](https://github.com/Sanjaypandit1/ProductInsightApp)** - Scan and analyze food ingredients using AI-powered text recognition.
+- **[Ambulance Service](https://github.com/Sanjaypandit1/Ambulance_Servide)** - A mobile app for emergency ambulance requests built using React Native. It allows users to request, track, and manage emergency services in real-time.  
 - **[Currency Converter](https://github.com/Sanjaypandit1/Currency-Converter.git)** - A web app for real-time currency conversion.  
 
 ---
